@@ -1,0 +1,27 @@
+heading{
+    color: azure;
+    font-weight: bold;
+
+}
+#start , #status {
+    border-radius: 12px;
+    font-weight: bold;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: beige;
+    line-height: 2;
+    text-align: center;
+    width: 100%;
+}
+body {
+    height: 800px;
+}
+canvas {
+    border-radius: 12px;
+    border: dotted red ;
+    box-shadow: 10px 10px 5px grey;
+    
+}
